@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loudiyavikas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java language and DSA
+- 🌱 I’m currently learning java language,SQL and DSA
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me 
 
