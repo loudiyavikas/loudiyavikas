@@ -7,3 +7,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 * 💼 Full Stack Developer
 * 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js
 * ✨ Completed Web Development at APNA College
+
+## Tools and Languages
+
+## Projects
+
+## Lets connect
