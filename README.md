@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-61DAFB?style=flat&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-61DAFB?style=flat&logo=java&logoColor=white)
 
 
 ## Projects
