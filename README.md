@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loudiya-vikas-57338222a/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loudiya-vikas-57338222a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lavudyavikas143@gmail.com)
 
 Feel free to explore my repository 😊!!
